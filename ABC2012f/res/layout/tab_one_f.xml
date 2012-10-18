@@ -7,13 +7,13 @@
         <include layout="@layout/timeline_item_zaki"/>
         <include layout="@layout/timeline_item_yanzm"/>
         <include layout="@layout/timeline_item_mashikekun"/>
-        <include layout="@layout/timeline_item_simeji_jp"/>
-        <include layout="@layout/timeline_item_niw"/>
         <include layout="@layout/timeline_item_tennetiss"/>
         <include layout="@layout/timeline_item_noritsuna"/>
         <include layout="@layout/timeline_item_androidzaurus"/>
+        <include layout="@layout/timeline_item_niw"/>
         <include layout="@layout/timeline_item_yanorin"/>
         <include layout="@layout/timeline_item_t_egg"/>
         <include layout="@layout/timeline_item_amedama"/>
+        <include layout="@layout/timeline_item_simeji_jp"/>
     </LinearLayout>
 </ScrollView>
