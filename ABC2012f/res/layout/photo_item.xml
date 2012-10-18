@@ -1,0 +1,115 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/contentsWrapper" >
+
+    <RelativeLayout style="@style/contentWrapper" >
+        <ImageView
+            android:id="@+id/photo"
+            style="@style/photoPicture"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/img01" />
+        <ImageView
+            android:id="@+id/photo_icon"
+            style="@style/ww"
+            android:layout_alignLeft="@+id/photo"
+            android:layout_below="@+id/photo"
+            android:src="@drawable/adamrocker" />
+        <TextView
+            android:id="@+id/photo_desc"
+            style="@style/photoDesc"
+            android:layout_alignTop="@+id/photo_icon"
+            android:layout_toRightOf="@+id/photo_icon"
+            android:text="The Ferry Plaza Farmers Market is a California certified farmers market operated by the Center for Urban Education about Sustainable Agriculture (CUESA). The market is open on Tuesday. Thursday and Saturday." />
+        <TextView
+            style="@style/photoDate"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/photo_desc"
+            android:text="July 4th, 2012" />
+    </RelativeLayout>
+
+    
+    <RelativeLayout style="@style/contentWrapper" >
+        <ImageView
+            android:id="@+id/photo"
+            style="@style/photoPicture"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/img02" />
+        <ImageView
+            android:id="@+id/photo_icon"
+            style="@style/ww"
+            android:layout_alignLeft="@+id/photo"
+            android:layout_below="@+id/photo"
+            android:src="@drawable/adamrocker" />
+        <TextView
+            android:id="@+id/photo_desc"
+            style="@style/photoDesc"
+            android:layout_alignTop="@+id/photo_icon"
+            android:layout_toRightOf="@+id/photo_icon"
+            android:text="The Ferry Plaza Farmers Market is a California certified farmers market operated by the Center for Urban Education about Sustainable Agriculture (CUESA). The market is open on Tuesday. Thursday and Saturday." />
+        <TextView
+            style="@style/photoDate"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/photo_desc"
+            android:text="July 4th, 2012" />
+    </RelativeLayout>
+    
+    
+    <RelativeLayout style="@style/contentWrapper" >
+        <ImageView
+            android:id="@+id/photo"
+            style="@style/photoPicture"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/img03" />
+        <ImageView
+            android:id="@+id/photo_icon"
+            style="@style/ww"
+            android:layout_alignLeft="@+id/photo"
+            android:layout_below="@+id/photo"
+            android:src="@drawable/adamrocker" />
+        <TextView
+            android:id="@+id/photo_desc"
+            style="@style/photoDesc"
+            android:layout_alignTop="@+id/photo_icon"
+            android:layout_toRightOf="@+id/photo_icon"
+            android:text="The Ferry Plaza Farmers Market is a California certified farmers market operated by the Center for Urban Education about Sustainable Agriculture (CUESA). The market is open on Tuesday. Thursday and Saturday." />
+        <TextView
+            style="@style/photoDate"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/photo_desc"
+            android:text="July 4th, 2012" />
+    </RelativeLayout>
+    
+    
+    <RelativeLayout style="@style/contentWrapper" >
+        <ImageView
+            android:id="@+id/photo"
+            style="@style/photoPicture"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/img04" />
+        <ImageView
+            android:id="@+id/photo_icon"
+            style="@style/ww"
+            android:layout_alignLeft="@+id/photo"
+            android:layout_below="@+id/photo"
+            android:src="@drawable/adamrocker" />
+        <TextView
+            android:id="@+id/photo_desc"
+            style="@style/photoDesc"
+            android:layout_alignTop="@+id/photo_icon"
+            android:layout_toRightOf="@+id/photo_icon"
+            android:text="The Ferry Plaza Farmers Market is a California certified farmers market operated by the Center for Urban Education about Sustainable Agriculture (CUESA). The market is open on Tuesday. Thursday and Saturday." />
+        <TextView
+            style="@style/photoDate"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/photo_desc"
+            android:text="July 4th, 2012" />
+    </RelativeLayout>
+</LinearLayout>

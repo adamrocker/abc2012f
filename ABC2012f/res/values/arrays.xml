@@ -1,0 +1,34 @@
+<resources>
+
+    <string-array name="SpinnerItems0">
+        <item>Jun. 2012</item>
+        <item>Feb. 2012</item>
+        <item>Mar. 2012</item>
+        <item>Apr. 2012</item>
+        <item>May. 2012</item>
+        <item>Jun. 2012</item>
+        <item>Jul. 2012</item>
+        <item>Aug. 2012</item>
+        <item>Sep. 2012</item>
+        <item>Oct. 2012</item>
+        <item>Nov. 2012</item>
+        <item>Dec. 2012</item>
+    </string-array>
+
+    <string-array name="SpinnerItems1">
+        <item>00:00</item>
+        <item>01:00</item>
+        <item>02:00</item>
+        <item>03:00</item>
+        <item>04:00</item>
+        <item>05:00</item>
+        <item>06:00</item>
+        <item>07:00</item>
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+    </string-array>
+
+</resources>

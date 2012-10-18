@@ -1,0 +1,187 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/behindMenuScrollContent" >
+    <RelativeLayout
+        style="@style/mw">
+        <ImageView
+            android:id="@+id/behind_menu_prof_icon"
+            style="@style/behindMenuItemIcon"
+            android:src="@drawable/adamrocker" />
+        <TextView
+            style="@style/behindMenuItemLabel"
+            android:layout_alignBottom="@+id/behind_menu_prof_icon"
+            android:layout_toRightOf="@+id/behind_menu_prof_icon"
+            android:text="@string/behind_menu_prof" />
+    </RelativeLayout>
+
+    <TextView 
+        style="@style/behindMenuItemDivider"
+        android:text="@string/behind_menu_divider0"/>
+    
+    <RelativeLayout
+        style="@style/mw">
+        <!-- icon -->
+        <ImageView
+            android:id="@+id/behind_menu_item_icon0"
+            style="@style/behindMenuItemIcon"
+            android:src="@drawable/icon_group" />
+        <TextView
+            style="@style/behindMenuItemLabel"
+            android:layout_alignBottom="@+id/behind_menu_item_icon0"
+            android:layout_toRightOf="@+id/behind_menu_item_icon0"
+            android:text="@string/behind_menu_item0" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        style="@style/mw">
+        <!-- icon -->
+        <ImageView
+            android:id="@+id/behind_menu_item_icon1"
+            style="@style/behindMenuItemIcon"
+            android:src="@drawable/icon_chat" />
+        <TextView
+            style="@style/behindMenuItemLabel"
+            android:layout_alignBottom="@+id/behind_menu_item_icon1"
+            android:layout_toRightOf="@+id/behind_menu_item_icon1"
+            android:text="@string/behind_menu_item1" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        style="@style/mw">
+        <!-- icon -->
+        <ImageView
+            android:id="@+id/behind_menu_item_icon2"
+            style="@style/behindMenuItemIcon"
+            android:src="@drawable/icon_shuffle" />
+        <TextView
+            style="@style/behindMenuItemLabel"
+            android:layout_alignBottom="@+id/behind_menu_item_icon2"
+            android:layout_toRightOf="@+id/behind_menu_item_icon2"
+            android:text="@string/behind_menu_item2" />
+    </RelativeLayout>
+    
+    <RelativeLayout
+        style="@style/mw">
+        <!-- icon -->
+        <ImageView
+            android:id="@+id/behind_menu_item_icon3"
+            style="@style/behindMenuItemIcon"
+            android:src="@drawable/icon_time" />
+        <TextView
+            style="@style/behindMenuItemLabel"
+            android:layout_alignBottom="@+id/behind_menu_item_icon3"
+            android:layout_toRightOf="@+id/behind_menu_item_icon3"
+            android:text="@string/behind_menu_item3" />
+    </RelativeLayout>
+    
+    <RelativeLayout
+        style="@style/mw">
+        <!-- icon -->
+        <ImageView
+            android:id="@+id/behind_menu_item_icon4"
+            style="@style/behindMenuItemIcon"
+            android:src="@drawable/icon_place" />
+        <TextView
+            style="@style/behindMenuItemLabel"
+            android:layout_alignBottom="@+id/behind_menu_item_icon4"
+            android:layout_toRightOf="@+id/behind_menu_item_icon4"
+            android:text="@string/behind_menu_item2" />
+    </RelativeLayout>
+    
+    <RelativeLayout
+        style="@style/mw">
+        <!-- icon -->
+        <ImageView
+            android:id="@+id/behind_menu_item_icon5"
+            style="@style/behindMenuItemIcon"
+            android:src="@drawable/icon_headphones" />
+        <TextView
+            style="@style/behindMenuItemLabel"
+            android:layout_alignBottom="@+id/behind_menu_item_icon5"
+            android:layout_toRightOf="@+id/behind_menu_item_icon5"
+            android:text="@string/behind_menu_item5" />
+    </RelativeLayout>
+    
+    <RelativeLayout
+        style="@style/mw">
+        <!-- icon -->
+        <ImageView
+            android:id="@+id/behind_menu_item_icon6"
+            style="@style/behindMenuItemIcon"
+            android:src="@drawable/icon_video" />
+        <TextView
+            style="@style/behindMenuItemLabel"
+            android:layout_alignBottom="@+id/behind_menu_item_icon6"
+            android:layout_toRightOf="@+id/behind_menu_item_icon6"
+            android:text="@string/behind_menu_item6" />
+    </RelativeLayout>
+    
+    <RelativeLayout
+        style="@style/mw">
+        <!-- icon -->
+        <ImageView
+            android:id="@+id/behind_menu_item_icon7"
+            style="@style/behindMenuItemIcon"
+            android:src="@drawable/icon_access" />
+        <TextView
+            style="@style/behindMenuItemLabel"
+            android:layout_alignBottom="@+id/behind_menu_item_icon7"
+            android:layout_toRightOf="@+id/behind_menu_item_icon7"
+            android:text="@string/behind_menu_item7" />
+    </RelativeLayout>
+    
+    <RelativeLayout
+        style="@style/mw">
+        <!-- icon -->
+        <ImageView
+            android:id="@+id/behind_menu_item_icon8"
+            style="@style/behindMenuItemIcon"
+            android:src="@drawable/icon_storage" />
+        <TextView
+            style="@style/behindMenuItemLabel"
+            android:layout_alignBottom="@+id/behind_menu_item_icon8"
+            android:layout_toRightOf="@+id/behind_menu_item_icon8"
+            android:text="@string/behind_menu_item8" />
+    </RelativeLayout>
+    
+    <RelativeLayout
+        style="@style/mw">
+        <!-- icon -->
+        <ImageView
+            android:id="@+id/behind_menu_item_icon9"
+            style="@style/behindMenuItemIcon"
+            android:src="@drawable/icon_help" />
+        <TextView
+            style="@style/behindMenuItemLabel"
+            android:layout_alignBottom="@+id/behind_menu_item_icon9"
+            android:layout_toRightOf="@+id/behind_menu_item_icon9"
+            android:text="@string/behind_menu_item9" />
+    </RelativeLayout>
+    
+    <TextView 
+        style="@style/behindMenuItemDivider"
+        android:text="@string/behind_menu_divider1"/>
+    
+    <LinearLayout style="@style/behindInfo">
+        <ImageView style="@style/behindInfoIcon" android:src="@drawable/msg_icon_wiz" />
+        <LinearLayout style="@style/behindInfoContent">
+            <TextView style="@style/behindInfoTitle" android:text="@string/behind_info_title0"/>
+            <TextView style="@style/behindInfoDesc" android:text="@string/behind_info_desc0"/>
+        </LinearLayout>
+    </LinearLayout>
+    
+    <LinearLayout style="@style/behindInfo">
+        <ImageView style="@style/behindInfoIcon" android:src="@drawable/msg_icon_oniak3" />
+        <LinearLayout style="@style/behindInfoContent">
+            <TextView style="@style/behindInfoTitle" android:text="@string/behind_info_title1"/>
+            <TextView style="@style/behindInfoDesc" android:text="@string/behind_info_desc1"/>
+        </LinearLayout>
+    </LinearLayout>
+    
+    <LinearLayout style="@style/behindInfo">
+        <ImageView style="@style/behindInfoIcon" android:src="@drawable/msg_icon_tim" />
+        <LinearLayout style="@style/behindInfoContent">
+            <TextView style="@style/behindInfoTitle" android:text="@string/behind_info_title2"/>
+            <TextView style="@style/behindInfoDesc" android:text="@string/behind_info_desc2"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

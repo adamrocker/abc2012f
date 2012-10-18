@@ -1,0 +1,5 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/mm">
+    <include layout="@layout/photo_item"/>
+</ScrollView>
