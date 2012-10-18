@@ -3,16 +3,17 @@
     style="@style/mm">
     <LinearLayout
         style="@style/contentsWrapper">
-        <include layout="@layout/timeline_item"/>
-        <include layout="@layout/timeline_item"/>
-        <include layout="@layout/timeline_item"/>
-        <include layout="@layout/timeline_item"/>
-        <include layout="@layout/timeline_item"/>
-        <include layout="@layout/timeline_item"/>
-        <include layout="@layout/timeline_item"/>
-        <include layout="@layout/timeline_item"/>
-        <include layout="@layout/timeline_item"/>
-        <include layout="@layout/timeline_item"/>
-        <include layout="@layout/timeline_item"/>
+        <include layout="@layout/timeline_item_gabu"/>
+        <include layout="@layout/timeline_item_zaki"/>
+        <include layout="@layout/timeline_item_yanzm"/>
+        <include layout="@layout/timeline_item_mashikekun"/>
+        <include layout="@layout/timeline_item_simeji_jp"/>
+        <include layout="@layout/timeline_item_niw"/>
+        <include layout="@layout/timeline_item_tennetiss"/>
+        <include layout="@layout/timeline_item_noritsuna"/>
+        <include layout="@layout/timeline_item_androidzaurus"/>
+        <include layout="@layout/timeline_item_yanorin"/>
+        <include layout="@layout/timeline_item_t_egg"/>
+        <include layout="@layout/timeline_item_amedama"/>
     </LinearLayout>
 </ScrollView>

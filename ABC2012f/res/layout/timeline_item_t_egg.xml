@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/contentWrapper">
+
+    <ImageView
+        android:id="@+id/icon"
+        style="@style/contentIcon"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/tl_icon_t_egg" />
+
+    <TextView
+        android:id="@+id/username"
+        style="@style/contentName"
+        android:layout_alignTop="@+id/icon"
+        android:layout_toRightOf="@+id/icon"
+        android:text="Takashi EGAWA" />
+
+    <TextView
+        style="@style/contentNickname"
+        android:layout_alignBottom="@+id/username"
+        android:layout_toRightOf="@+id/username"
+        android:text=" @t_egg" />
+
+    <TextView
+        style="@style/contentDate"
+        android:layout_alignParentRight="true"
+        android:layout_gravity="right"
+        android:text="2d" />
+
+    <TextView
+        android:id="@+id/tweet"
+        style="@style/contentBody"
+        android:layout_alignLeft="@+id/username"
+        android:layout_below="@+id/username"
+        android:text="いいAndroidデベロッパ知りませんかというメールを3日に1通くらいもらうけど、皆仕事やドラクエで忙しそうな人ばかりなので誰も心当たりがありません..." />
+<!-- 
+    <ImageView
+        android:id="@+id/rt_icon"
+        style="@style/contentRtIcon"
+        android:layout_alignLeft="@+id/tweet"
+        android:layout_below="@+id/tweet" />
+
+    <TextView
+        style="@style/contentRtBy"
+        android:layout_toRightOf="@+id/rt_icon"
+        android:layout_alignBottom="@+id/rt_icon"
+        android:text="Retweeted by @zaki50" />
+ -->
+</RelativeLayout>
