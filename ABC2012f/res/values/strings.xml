@@ -23,12 +23,10 @@
     <string name="behind_menu_item8">Storage</string>
     <string name="behind_menu_item9">Help</string>
     
-    <string name="behind_info_title1">Akira Onishi</string>
-    <string name="behind_info_desc1">aAsync() .then(function () { return bAsync(); }) .then(function () { return cAsync(); }) .done(function () { finish(); }); // #andeb14</string>
-    <string name="behind_info_title0">J.Maurice</string>
-    <string name="behind_info_desc0">Free SSL certificate from @startssl is great and works in all browsers, I love these guys.</string>
-    <string name="behind_info_title1">Akira Onishi</string>
-    <string name="behind_info_desc1">aAsync() .then(function () { return bAsync(); }) .then(function () { return cAsync(); }) .done(function () { finish(); }); // #andeb14</string>
+    <string name="behind_info_title0">Akira Onishi</string>
+    <string name="behind_info_desc0">aAsync() .then(function () { return bAsync(); }) .then(function () { return cAsync(); }) .done(function () { finish(); }); // #andeb14</string>
+    <string name="behind_info_title1">J.Maurice</string>
+    <string name="behind_info_desc1">Free SSL certificate from @startssl is great and works in all browsers, I love these guys.</string>
     <string name="behind_info_title2">Tim Bray</string>
     <string name="behind_info_desc2">Paul Krugman’s introduction to Asimov’s re-issued “Foundation Trilogy”: goo.gl/KOmMv</string>
 </resources>

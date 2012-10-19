@@ -164,16 +164,16 @@
     <LinearLayout style="@style/behindInfo">
         <ImageView style="@style/behindInfoIcon" android:src="@drawable/msg_icon_wiz" />
         <LinearLayout style="@style/behindInfoContent">
-            <TextView style="@style/behindInfoTitle" android:text="@string/behind_info_title0"/>
-            <TextView style="@style/behindInfoDesc" android:text="@string/behind_info_desc0"/>
+            <TextView style="@style/behindInfoTitle" android:text="@string/behind_info_title1"/>
+            <TextView style="@style/behindInfoDesc" android:text="@string/behind_info_desc1"/>
         </LinearLayout>
     </LinearLayout>
     
     <LinearLayout style="@style/behindInfo">
         <ImageView style="@style/behindInfoIcon" android:src="@drawable/msg_icon_oniak3" />
         <LinearLayout style="@style/behindInfoContent">
-            <TextView style="@style/behindInfoTitle" android:text="@string/behind_info_title1"/>
-            <TextView style="@style/behindInfoDesc" android:text="@string/behind_info_desc1"/>
+            <TextView style="@style/behindInfoTitle" android:text="@string/behind_info_title0"/>
+            <TextView style="@style/behindInfoDesc" android:text="@string/behind_info_desc0"/>
         </LinearLayout>
     </LinearLayout>
     
